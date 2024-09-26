@@ -1,0 +1,31 @@
+.eyeshadow-div:hover{
+    .eyeshadowImg{
+    z-index: -1;
+
+    }
+   
+
+    
+
+}
+.proHead{
+    color: black;
+    text-decoration: none;
+    display: block;
+   
+}
+.AddCardBtn{
+
+
+    background-color: black;
+    border: 2px solid black;
+    color: white;
+    cursor: pointer;
+    display: block;
+    outline: none;
+    padding: 14px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: background-color .2s, border-color .2s ;
+    
+}
